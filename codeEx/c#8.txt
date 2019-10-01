@@ -1,0 +1,40 @@
+c# 8.0
+
+1.Readonly members
+    -ใช้กับ method ใน struct ที่ไม่มีการแก้ไข state
+
+2.Default interface members
+    -interface สามารถ implement method ได้ 
+    -มีประโยชน์กับ การเขียน library, component ใช้
+
+3.Pattern matching enhancements:
+        -Switch expressions -The variable comes before the switch keyword.,  =>
+        -Property patterns -ใช้ property ในการ match
+        -Tuple patterns - manange multiple inputs
+        -Positional patterns - ใช้กับ method ที่ต้อการ Deconstruct
+
+4.Using declarations
+    -ใช้ using แล้ว จะ dispose ให้เมื่อจบ(Disposable ref structs)
+
+5.Static local functions
+    -ใช้ static กับ functions ที่จะไม่มีการแก้ไขค่าตัวแปรอื่นใน functions (pure func)
+
+6.Nullable reference types
+    -complieler ตรวจสอบ null 
+    -ประกาศตัวแปรเก็บ null ได้(Null-coalescing assignment) ex. String?
+
+7.Asynchronous streams
+    -Asys ใน for loop ได้ (await + yield)
+
+8.Indices and ranges
+    เข้าถึง Array
+    -จาก index ท้ายได้ ex. p[^1] = ตัวสุดท้าย
+    -เป็นช่วงได้ ex. p[1..4] = array ตัวที่ 1, 2 และ 3
+    -ใช้ร่วมกันได้ Indices && ranges ex. p[^2..^0] = ตัวสุดท้าย กับ รองสุดท้าย
+
+9.Unmanaged constructed types
+
+10.stackalloc in nested expressions
+
+11.Enhancement of interpolated verbatim strings
+    -both $@"..." and @$"..." are valid

@@ -1,0 +1,11 @@
+/home/tdcm/research/cs8/codeEx/obj/Debug/netcoreapp3.0/codeEx.csprojAssemblyReference.cache
+/home/tdcm/research/cs8/codeEx/obj/Debug/netcoreapp3.0/codeEx.AssemblyInfoInputs.cache
+/home/tdcm/research/cs8/codeEx/obj/Debug/netcoreapp3.0/codeEx.AssemblyInfo.cs
+/home/tdcm/research/cs8/codeEx/bin/Debug/netcoreapp3.0/codeEx
+/home/tdcm/research/cs8/codeEx/bin/Debug/netcoreapp3.0/codeEx.deps.json
+/home/tdcm/research/cs8/codeEx/bin/Debug/netcoreapp3.0/codeEx.runtimeconfig.json
+/home/tdcm/research/cs8/codeEx/bin/Debug/netcoreapp3.0/codeEx.runtimeconfig.dev.json
+/home/tdcm/research/cs8/codeEx/bin/Debug/netcoreapp3.0/codeEx.dll
+/home/tdcm/research/cs8/codeEx/bin/Debug/netcoreapp3.0/codeEx.pdb
+/home/tdcm/research/cs8/codeEx/obj/Debug/netcoreapp3.0/codeEx.dll
+/home/tdcm/research/cs8/codeEx/obj/Debug/netcoreapp3.0/codeEx.pdb
